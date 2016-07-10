@@ -41,5 +41,6 @@ public class MainActivity extends AppCompatActivity {
             persons.add(new Person("009","Ann"));
             persons.add(new Person("010","Man"));
             persons.add(new Person("011","Dark"));
+            persons.add(new Person("012","Red"));
         }
 }
